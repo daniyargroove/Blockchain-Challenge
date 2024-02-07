@@ -1,5 +1,5 @@
 # Blockchain-Challenge
-![alt=""](Images/application-image.png)
+![image](https://github.com/daniyargroove/Blockchain-Challenge/assets/143307322/b291480a-ddab-46ab-b449-52cffb0dbe13)
 
 In this assignment, being in a role of a fintech engineer at one of the world's largest banks, I was tasked with leading the development of a blockchain-based ledger system for the decentralized finance team. This system allows partner banks to conduct financial transactions securely and efficiently while ensuring the integrity of the ledger's data.
 
